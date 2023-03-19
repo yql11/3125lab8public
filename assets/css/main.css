@@ -104,7 +104,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 600;
 		text-transform: uppercase;
-		color: #888;
+		color: #1c1c1c;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -132,7 +132,7 @@ input, select, textarea {
 		-webkit-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		-ms-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
-		color: #666;
+		color: #64c864;
 		text-decoration: none;
 		border-bottom: solid 1px #ddd;
 	}
@@ -145,17 +145,16 @@ input, select, textarea {
 		}
 
 		a:hover {
-			color: #ed786a;
-			border-bottom-color: rgba(255, 255, 255, 0);
+			color: #64fa64;
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: #64c864;
 			}
 
 	strong, b {
 		font-weight: 600;
-		color: #666;
+		color: #1c1c1c;
 	}
 
 	em, i {
@@ -210,6 +209,7 @@ input, select, textarea {
 
 			.container {
 				width: 68em;
+				color: #64c864;
 			}
 
 		}
@@ -218,6 +218,7 @@ input, select, textarea {
 
 			.container {
 				width: calc(100% - 80px);
+				color: #64c864;
 			}
 
 		}
@@ -226,6 +227,7 @@ input, select, textarea {
 
 			.container {
 				width: calc(100% - 100px);
+				color: #64c864;
 			}
 
 		}
@@ -234,6 +236,7 @@ input, select, textarea {
 
 			.container {
 				width: calc(100% - 40px);
+				color: #64c864;
 			}
 
 		}
@@ -1765,8 +1768,8 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #ed786a;
-		color: #fff !important;
+		background: #64c864;
+		color: #1c1c1c !important;
 		text-transform: uppercase;
 		border-radius: 4px;
 		border: 0;
@@ -1796,7 +1799,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #fd887a;
+			background: #64fa64;
 		}
 
 		input[type="button"]:active,
@@ -1804,7 +1807,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #ed786a;
+			background: #64fa64;
 		}
 
 		input[type="button"].alt,
@@ -1900,7 +1903,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		position: relative;
-		background: #fff;
+		background: #5858c4;
 		text-align: center;
 	}
 
@@ -1913,7 +1916,7 @@ input, select, textarea {
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #1c1c1c;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 			font-size: 3em;
 			letter-spacing: 13px;
@@ -1926,7 +1929,7 @@ input, select, textarea {
 		#header p {
 			text-transform: uppercase;
 			font-weight: 400;
-			color: #888;
+			color: #64c864;
 			margin: 2.5em 0 0 0;
 			font-size: 0.85em;
 			letter-spacing: 3px;
@@ -1957,7 +1960,7 @@ input, select, textarea {
 				text-decoration: none;
 				text-transform: uppercase;
 				font-weight: 400;
-				color: #777;
+				color: #46b45a;
 				outline: 0;
 				display: block;
 			}
@@ -1997,13 +2000,13 @@ input, select, textarea {
 
 			#nav > ul > li.active > a:before,
 			#nav > ul > li:hover > a:before {
-				background: #ED786A;
+				background: #4edc64;
 				color: #fff;
 			}
 
 			#nav > ul > li.active > a > span,
 			#nav > ul > li:hover > a > span {
-				color: #ED786A;
+				color: #4edc64;
 			}
 
 	.dropotron {
@@ -2078,7 +2081,7 @@ input, select, textarea {
 	#features {
 		position: relative;
 		overflow: hidden;
-		background: #fff;
+		background: #5858c4;
 		text-align: center;
 		padding: 6em 0;
 	}
@@ -2096,12 +2099,12 @@ input, select, textarea {
 	#banner {
 		position: relative;
 		overflow: hidden;
-		background: #fff;
-		color: #fff;
+		background: #5757c3;
+		color: #5757c3;
 		text-align: center;
-		border-top: solid 2px #e5e5e5;
-		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
+		border-top: solid 2px #5757c3;
+		border-bottom: solid 2px #5757c3;
+		box-shadow: inset 0px -8px 0px 0px #5757c3, inset 0px 8px 0px 0px #5757c3;
 		position: relative;
 		text-transform: uppercase;
 		background: url("../../images/banner.jpg");
@@ -2201,7 +2204,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		border-top: solid 2px #e5e5e5;
-		background: #f0f0f0;
+		background: #5858c4;
 		padding: 6em 0 8em 0;
 	}
 
@@ -2300,10 +2303,12 @@ input, select, textarea {
 
 				#banner > .container {
 					padding: 0 4em;
+					color: #64c864;
 				}
 
 					#banner > .container br {
 						display: none;
+						color: #64c864;
 					}
 
 		/* Main */
