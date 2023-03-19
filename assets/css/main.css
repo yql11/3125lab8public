@@ -203,6 +203,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 70em;
+		color: #64c864;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -2122,7 +2123,7 @@ input, select, textarea {
 		}
 
 		#banner strong {
-			color: inherit;
+			color: #64fa64;
 		}
 
 		#banner > .container {
@@ -2701,6 +2702,7 @@ input, select, textarea {
 					padding-left: 0;
 					margin-left: 0;
 					border-left: 0;
+					color: #1cec0a;
 				}
 
 	}
